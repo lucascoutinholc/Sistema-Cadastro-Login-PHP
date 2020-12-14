@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: gray;
+    text-align: center;
+    color: honeydew;
+    padding: 40px;
+    font-size: 42px;
+}
+
+div.acesso div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0px;
+}
+
+div.acesso div h2 {
+    margin-right: 10px;
+}
